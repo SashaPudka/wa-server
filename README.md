@@ -1,4 +1,4 @@
-###Стек технологий:  
+***Стек технологий:***     
 Node.js  
 Express.js  
 PostgreSQL  
